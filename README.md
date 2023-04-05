@@ -33,6 +33,12 @@ Splitting the data into test and train
 
 ## PROGRAM:
 ```
+DEVELOPED BY : KRISHNA PRAKAASH D M 
+REG-NO: 212221230052
+```
+
+
+```
 import pandas as pd
 import io
 from sklearn.preprocessing import StandardScaler
@@ -100,8 +106,18 @@ print("Size of X_test: ",len(X_test))
 ```
 
 
-## OUTPUT:
-/ Show the result/
+# OUTPUT:
 
-## RESULT
-/Type your result here/
+## dataset and its properties
+
+## normalised dataset
+
+## x and y column data
+
+## training data
+
+## test data
+
+
+## RESULT;
+Thus, the Data preprocessing is performed over a data set successfully.
