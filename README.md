@@ -129,9 +129,13 @@ print("Size of X_test: ",len(X_test))
 ![OP-8](IMG-8.PNG)
 
 ## Training data
+
 ![OP-9](IMG-9.PNG)
 
+
+
 ##Test data
+
 ![OP-10](IMG-10.PNG)
 
 ## RESULT;
